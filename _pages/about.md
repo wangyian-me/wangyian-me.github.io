@@ -24,7 +24,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
-- *Sep 2023*: &nbsp; Welcome to our CoRL Workshop: (TGR)[https://generalist-robots.github.io/]
+- *Sep 2023*: &nbsp; Welcome to our CoRL Workshop: [TGR](https://generalist-robots.github.io/)
 - *Sep 2023*: &nbsp; First-year Phd in Umass
 
 # 📝 Publications 
