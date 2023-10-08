@@ -32,6 +32,18 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='https://wangyian-me.github.io/images/adagif2.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[MIXUP-AUGMENTED META-LEARNING FOR SAMPLE-EFFICIENT FINE-TUNING OF PROTEIN SIMULATORS](https://browse.arxiv.org/pdf/2308.15116.pdf)
+
+[Jingbang Chen\*](), **Yian Wang***, [Xingwei Qv](), [ShuangJia Zheng](https://prokia.github.io/), [Yaodong Yang](https://www.yangyaodong.com/), [Hao Dong](http://zsdonghao.github.io/), [Jie Fu](https://bigaidream.github.io/)
+
+[**Paper**](https://browse.arxiv.org/pdf/2308.15116.pdf) [**Code**](https://github.com/Jingbang-Chen/mixup-meta-protein-simulators)
+- We apply soft prompt-based learning to molecular dynamics simulations, achieving strong generalization across various conditions with limited training data. The framework includes pre-training with data mixing and prompts, followed by meta-learning-based fine-tuning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='https://wangyian-me.github.io/images/adagif2.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions](https://arxiv.org/abs/2112.00246)
 
 **Yian Wang***, [Ruihai Wu\*](https://warshallrho.github.io), [Kaichun Mo\*](https://www.cs.stanford.edu/~kaichun), Jiaqi Ke, [Qingnan Fan](https://fqnchina.github.io/), [Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Hao Dong](http://zsdonghao.github.io/)
@@ -67,6 +79,9 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 </div> -->
 
 # 🎖 Honors and Awards
+- SenseTime Scholarship 2021-2022
+- Pexpertmaker to Merit Student in Peking University 2021-2022	
+- Yanhong Li Scholarship in Peking University 2021-2022	
 - Benz Scholarship in Peking University 2020-2021		
 - Lee Wai Wing Scholarship in Peking University 2019-2020
 - Merit Student in Peking University 2019-2020 and 2020-2021
