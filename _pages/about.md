@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Coming Soon
-
-<!-- # About me
+# About me
 I am currently a fourth-year undergraduate student at Peking University, School of Electronics Engineering and Computer Science. 
 My research interest mainly lies in Robotics, Computer Vision and Machine Learning. It’s mainly about robot manipulation: to learn versatile skills and generalization ability through novel representations or novel algorithms. Targeted application might include domestic robots or other autonomous manipulation tasks. Supervised by [Prof. Hao Dong](https://zsdonghao.github.io/), I worked as an undergraduate member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), and I have been lucky to work with [Prof. Hao Dong](https://zsdonghao.github.io/), [Prof. Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Dr. Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Dr. Jie Fu](https://bigaidream.github.io/) and [Dr. Qingnan Fan](https://fqnchina.github.io/).
 
@@ -107,5 +105,5 @@ My research interest mainly lies in Robotics, Computer Vision and Machine Learni
 [**Project**](https://github.com/wangyian-me/PKBG) [**Code**](https://github.com/wangyian-me/PKBG)
 - We self-design the task setting and run reinforcement learning ([TD3](https://github.com/sfujim/TD3)) on two competing agents to see what interesting strategy they will develop.
 </div>
-</div> -->
+</div>
 
