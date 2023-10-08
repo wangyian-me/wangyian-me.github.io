@@ -29,7 +29,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='https://wangyian-me.github.io/images/mixup.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/mixup.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIXUP-AUGMENTED META-LEARNING FOR SAMPLE-EFFICIENT FINE-TUNING OF PROTEIN SIMULATORS](https://browse.arxiv.org/pdf/2308.15116.pdf)
