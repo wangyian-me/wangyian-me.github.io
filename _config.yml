@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yian Wang"
   avatar           : "images/profile.png"
-  bio              : "Peking University"
-  location         : "Beijing, China"
+  bio              : "University of Massachusetts Amherst"
+  location         : "Amherst, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yianwang@pku.edu.cn"
+  email            : "yianwang@umass.edu"
   researchgate     :  
   uri              :
   bitbucket        :
