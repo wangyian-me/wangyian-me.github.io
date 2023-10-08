@@ -18,13 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a fourth-year undergraduate student at Peking University, School of Electronics Engineering and Computer Science. 
-My research interest mainly lies in Robotics, Computer Vision and Machine Learning. It’s mainly about robot manipulation: to learn versatile skills and generalization ability through novel representations or novel algorithms. Targeted application might include domestic robots or other autonomous manipulation tasks. Supervised by [Prof. Hao Dong](https://zsdonghao.github.io/), I worked as an undergraduate member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), and I have been lucky to work with [Prof. Hao Dong](https://zsdonghao.github.io/), [Prof. Leonidas J. Guibas](https://geometry.stanford.edu/member/guibas/), [Dr. Kaichun Mo](https://www.cs.stanford.edu/~kaichun), [Dr. Jie Fu](https://bigaidream.github.io/) and [Dr. Qingnan Fan](https://fqnchina.github.io/).
+I am currently a first-year PhD student in computer science at the University of Massachusetts Amherst, advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+My primary research focus centers around Robotics and Embodied AI, with a particular emphasis on robot skill acquisition. My work primarily revolves around equipping robots with the capability to acquire versatile skills and improve their generalization abilities. The practical applications of my research span across various domains, including domestic robots and autonomous manipulation tasks.
+Previous to my graduate study, I obtained my bachelor degree in Peking University when I worked as an undergraduate member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), under the guidance of [Prof. Hao Dong](https://zsdonghao.github.io/).
 
 
 # 🔥 News
-- *Autumn 2022*: &nbsp;Looking for a PhD position in 2023 fall.
-- *Autumn 2022*: &nbsp;🎉🎉 Our paper AdaAfford gets accepted to ECCV 2022.
+- *Sep 2023*: &nbsp; Welcome to our CoRL Workshop: (TGR)[https://generalist-robots.github.io/]
+- *Sep 2023*: &nbsp; First-year Phd in Umass
 
 # 📝 Publications 
 
@@ -73,14 +74,16 @@ My research interest mainly lies in Robotics, Computer Vision and Machine Learni
 - Silver medal in National Olympiad in Informatics (NOI), China Computer Federation, 2018
 
 # 📖 Educations
-- *Autumn 2019 - Autumn 2022 (now)*, undergraduate in Peking University. 
+- *Sep 2023 - now*, University of Massachusetts Amherst. 
+- *Aug 2019 - July 2023*, undergraduate in Peking University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *Spring 2022 - Autumn 2022 (now)*, with [Dr. Jie Fu](https://bigaidream.github.io/) in [Mila](https://mila.quebec/en/) & [BAAI](https://www.baai.ac.cn/english.html).
+- *Mar 2023 - Aug 2023*, [Taichi Graphics](https://taichi-graphics.com/), where I was lucky to work with [Tiantian Liu](https://tiantianliu.cn/) and [Yuanming Hu](https://yuanming.taichi.graphics/)
+- *Apr 2022 - Oct 2022*, with [Dr. Jie Fu](https://bigaidream.github.io/) in [Mila](https://mila.quebec/en/) & [BAAI](https://www.baai.ac.cn/english.html).
 
 # other projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020 Mahjong AI Competition</div><img src='https://wangyian-me.github.io/images/mahjong.jpg' alt="sym" width="500" height="300"></div></div>
