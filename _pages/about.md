@@ -113,6 +113,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course project</div><img src='https://wangyian-me.github.io/images/pkbg.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -123,5 +124,5 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 [**Project**](https://github.com/wangyian-me/PKBG) [**Code**](https://github.com/wangyian-me/PKBG)
 - We self-design the task setting and run reinforcement learning ([TD3](https://github.com/sfujim/TD3)) on two competing agents to see what interesting strategy they will develop.
 </div>
-</div>
+</div> -->
 
