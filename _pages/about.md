@@ -29,6 +29,30 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/banner.webp' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Generalist Robots: A Promising Paradigm via Generative Simulation](https://arxiv.org/pdf/2305.10455.pdf)
+
+[Zhou Xian](https://www.zhou-xian.com/), [Theophile Gervet](https://theophilegervet.github.io/), [Zhenjia Xu](https://ylqiao.net/), [Tsun-Hsuan Wang](https://zswang666.github.io/), **Yian Wang**, [Yufei Wang](https://yufeiwang63.github.io/)
+
+[**Paper**](https://arxiv.org/pdf/2305.10455.pdf)
+- The purpose of this document is to share the excitement of the authors with the community and highlight a promising research direction in robotics and AI. The authors believe the proposed paradigm is a feasible path towards accomplishing the longstanding goal of robotics research: deploying robots, or embodied AI agents more broadly, in various non-factory real-world settings to perform diverse tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/logo_002.webp' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ROBOGEN: TOWARDS UNLEASHING INFINITE DATA FOR AUTOMATED ROBOT LEARNING VIA GENERATIVE SIMULATION](https://arxiv.org/pdf/2311.01455.pdf)
+
+[Yufei Wang\*](https://yufeiwang63.github.io/), [Zhou Xian\*](https://www.zhou-xian.com/), [Feng Chen\*](https://robogen-ai.github.io), [Tsun-Hsuan Wang](https://zswang666.github.io/), **Yian Wang**, [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/), [Zackory Erickson](https://zackory.com/), [David Held](http://davheld.github.io/), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
+                            
+[**Paper**](https://arxiv.org/pdf/2311.01455.pdf) [**Project**](https://robogen-ai.github.io/) [**Code**](https://github.com/Genesis-Embodied-AI/RoboGen)
+- RoboGen leverages the latest advancements in foundation and generative models. Instead of directly using or adapting these models to produce policies or low-level actions, we advocate for a generative scheme, which uses these models to automatically generate diversified tasks, scenes, and training supervisions, thereby scaling up robotic skill learning with minimal human supervision.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/mixup.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
