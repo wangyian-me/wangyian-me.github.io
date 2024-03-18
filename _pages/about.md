@@ -53,6 +53,30 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='https://wangyian-me.github.io/images/thinshelllabgif.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Thin-Shell Object Manipulations With Differentiable Physics Simulations](https://openreview.net/pdf?id=KsUh8MMFKQ)
+
+**Yian Wang***, [Juntian Zheng\*](), [Zhehuan Chen](https://acmlczh.github.io), [Xian Zhou](https://www.zhou-xian.com), [Gu Zhang](https://www.gu-zhang.com), [Chao Liu](https://chaoliu.tech), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
+                            
+[**Paper**](https://openreview.net/pdf?id=KsUh8MMFKQ) [**Project**](https://vis-www.cs.umass.edu/ThinShellLab)
+- We introduce ThinShellLab - a fully differentiable simulation platform tailored for robotic interactions with diverse thin-shell materials possessing varying material properties, enabling flexible thin-shell manipulation skill learning and evaluation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='https://wangyian-me.github.io/images/2024ICRA-coarse2fine-min.jpg' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise](https://arxiv.org/pdf/2402.18699.pdf)
+
+Suhan Ling*, **Yian Wang***, Shiguang Wu, Yuzheng Zhuang, Tianyi Xu, Yu Li, Chang Liu, [Hao Dong](http://zsdonghao.github.io/)
+                            
+[**Paper**](https://arxiv.org/pdf/2402.18699.pdf) [**Project**](https://sites.google.com/view/coarse-to-fine/) 
+- We leverage the property of real-world scanned point cloud that, the point cloud becomes less noisy when the camera is closer to the object. Therefore, we propose a novel coarse-to-fine affordance learning pipeline to mitigate the effect of point cloud noise in two stages.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/mixup.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
