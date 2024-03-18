@@ -70,7 +70,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 [Articulated Object Manipulation with Coarse-to-fine Affordance for Mitigating the Effect of Point Cloud Noise](https://arxiv.org/pdf/2402.18699.pdf)
 
-Suhan Ling*, **Yian Wang***, Shiguang Wu, Yuzheng Zhuang, Tianyi Xu, Yu Li, Chang Liu, [Hao Dong](http://zsdonghao.github.io/)
+[Suhan Ling\*](), **Yian Wang***, Shiguang Wu, Yuzheng Zhuang, Tianyi Xu, Yu Li, Chang Liu, [Hao Dong](http://zsdonghao.github.io/)
                             
 [**Paper**](https://arxiv.org/pdf/2402.18699.pdf) [**Project**](https://sites.google.com/view/coarse-to-fine/) 
 - We leverage the property of real-world scanned point cloud that, the point cloud becomes less noisy when the camera is closer to the object. Therefore, we propose a novel coarse-to-fine affordance learning pipeline to mitigate the effect of point cloud noise in two stages.
