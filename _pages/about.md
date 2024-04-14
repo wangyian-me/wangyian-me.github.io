@@ -53,12 +53,12 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='https://wangyian-me.github.io/images/thinshelllabgif.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='https://wangyian-me.github.io/images/thinshelllabgif.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Thin-Shell Object Manipulations With Differentiable Physics Simulations](https://openreview.net/pdf?id=KsUh8MMFKQ)
 
-**Yian Wang***, [Juntian Zheng\*](), [Zhehuan Chen](https://acmlczh.github.io), [Xian Zhou](https://www.zhou-xian.com), [Gu Zhang](https://www.gu-zhang.com), [Chao Liu](https://chaoliu.tech), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
+**Yian Wang***, [Juntian Zheng\*](), [Zhehuan Chen](https://acmlczh.github.io), [Zhou Xian](https://www.zhou-xian.com), [Gu Zhang](https://www.gu-zhang.com), [Chao Liu](https://chaoliu.tech), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
                             
 [**Paper**](https://openreview.net/pdf?id=KsUh8MMFKQ) [**Project**](https://vis-www.cs.umass.edu/ThinShellLab)
 - We introduce ThinShellLab - a fully differentiable simulation platform tailored for robotic interactions with diverse thin-shell materials possessing varying material properties, enabling flexible thin-shell manipulation skill learning and evaluation.
