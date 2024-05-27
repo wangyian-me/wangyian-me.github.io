@@ -24,8 +24,8 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
-- *Sep 2023*: &nbsp; Welcome to our CoRL Workshop: [TGR](https://generalist-robots.github.io/)
-- *Sep 2023*: &nbsp; First-year Phd in Umass
+- *May 2024*: &nbsp; Internship in NVIDIA!
+- *Jan 2024*: &nbsp; Our paper [ThinShellLab](https://vis-www.cs.umass.edu/ThinShellLab) has been accepted by ICLR 2024 Spotlight!
 
 # 📝 Publications 
 
@@ -148,7 +148,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 - *Mar 2023 - Aug 2023*, [Taichi Graphics](https://taichi-graphics.com/), where I was lucky to work with [Tiantian Liu](https://tiantianliu.cn/) and [Yuanming Hu](https://yuanming.taichi.graphics/)
 - *Apr 2022 - Oct 2022*, with [Dr. Jie Fu](https://bigaidream.github.io/) in [Mila](https://mila.quebec/en/) & [BAAI](https://www.baai.ac.cn/english.html).
 
-# other projects
+<!--# other projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020 Mahjong AI Competition</div><img src='https://wangyian-me.github.io/images/mahjong.jpg' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -159,7 +159,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 [**Paper**](https://www.botzone.org.cn/static/IJCAI2020MahjongPPT/15-King%20of%20gambler-komqaq-paper.pdf) [**Project**](https://kylelv.com/?p=726) [**Code**](https://github.com/kylelv2000/mahjong)
 - We apply Depth First Search and pruning algorithm to compute our possibility of winning and analyze our complexity by combinatorial mathematics.
 </div>
-</div>
+</div> -->
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course project</div><img src='https://wangyian-me.github.io/images/pkbg.gif' alt="sym" width="500" height="300"></div></div>
