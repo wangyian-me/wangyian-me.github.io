@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a first-year PhD student in computer science at the University of Massachusetts Amherst, advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+I am currently a second-year PhD student in computer science at the University of Massachusetts Amherst, advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
 My primary research focus centers around Robotics and Embodied AI, with a particular emphasis on robot skill acquisition. My work primarily revolves around equipping robots with the capability to acquire versatile skills and improve their generalization abilities. The practical applications of my research span across various domains, including domestic robots and autonomous manipulation tasks.
 Previous to my graduate study, I obtained my bachelor degree in Peking University when I worked as an undergraduate member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), under the guidance of [Prof. Hao Dong](https://zsdonghao.github.io/).
 
 
 # 🔥 News
+- *Sep 2024*: &nbsp; Our paper [Architect](https://wangyian-me.github.io/Architect/) has been accepted by Neurips 2024!
 - *May 2024*: &nbsp; Internship in NVIDIA!
-- *Jan 2024*: &nbsp; Our paper [ThinShellLab](https://vis-www.cs.umass.edu/ThinShellLab) has been accepted by ICLR 2024 Spotlight!
 
 # 📝 Publications 
 
