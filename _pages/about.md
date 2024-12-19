@@ -30,6 +30,19 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='https://wangyian-me.github.io/images/architect.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ARCHITECT: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting](https://arxiv.org/abs/2411.09823)
+
+**Yian Wang***, [Xiaowen Qiu\*](), [Jiageng Liu\*](), [Zhehuan Chen](), [Jiting Cai](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Yufei Wang](https://yufeiwang63.github.io/), [Zhou Xian](https://www.zhou-xian.com/)
+
+[**Paper**](https://arxiv.org/abs/2411.09823) [**Project**](https://wangyian-me.github.io/Architect/)
+- In this work, we utilize foundation visual perception models to obtain each generated object from the image and leverage pre-trained depth estimation models to lift the generated 2D image to 3D space.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/banner.webp' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
