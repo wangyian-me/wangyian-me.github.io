@@ -24,7 +24,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
-- *Dec 2024*: &nbsp; We release [Genesis](https://genesis-embodied-ai.github.io)!!!!!!
+- *Dec 2024*: &nbsp; We announce and release [Genesis](https://genesis-embodied-ai.github.io)!!!!!! &#x1F386;&#x1F386;&#x1F386;
 - *Sep 2024*: &nbsp; Our paper [Architect](https://wangyian-me.github.io/Architect/) has been accepted by Neurips 2024!
 - *May 2024*: &nbsp; Internship in NVIDIA!
 
