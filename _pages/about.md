@@ -24,6 +24,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
+- *Dec 2024*: &nbsp; We release [Genesis](https://genesis-embodied-ai.github.io)!!!!!!
 - *Sep 2024*: &nbsp; Our paper [Architect](https://wangyian-me.github.io/Architect/) has been accepted by Neurips 2024!
 - *May 2024*: &nbsp; Internship in NVIDIA!
 
@@ -50,6 +51,18 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
                             
 [**Paper**](https://arxiv.org/pdf/2311.01455.pdf) [**Project**](https://robogen-ai.github.io/) [**Code**](https://github.com/Genesis-Embodied-AI/RoboGen)
 - RoboGen leverages the latest advancements in foundation and generative models. Instead of directly using or adapting these models to produce policies or low-level actions, we advocate for a generative scheme, which uses these models to automatically generate diversified tasks, scenes, and training supervisions, thereby scaling up robotic skill learning with minimal human supervision.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='https://wangyian-me.github.io/images/multiply.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MultiPLY:A Multisensory Object-Centric Embodied Large Language Model in 3D World](https://arxiv.org/abs/2401.08577)
+
+[Yining Hong](https://evelinehong.github.io), [Zishuo Zheng](), [Peihao Chen](https://peihaochen.github.io), **Yian Wang**, [Junyan Li](https://senfu.github.io), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
+                            
+[**Paper**](https://arxiv.org/abs/2401.08577) [**Project**](https://vis-www.cs.umass.edu/multiply/) [**Code**](https://github.com/UMass-Foundation-Model/MultiPLY)
+- In this work, we enpower the LLM with multisensory perception and active observation abiltiy. We propose MultiPLY, a multisensory embodied large language model that could incorporate multisensory interactive data, including visual, audio, tactile, and thermal information into large language models, thereby establishing the correlation among words, actions, and perceptions.
 </div>
 </div>
 
