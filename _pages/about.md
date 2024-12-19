@@ -30,12 +30,36 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In submission</div><img src='https://wangyian-me.github.io/images/MatchMaker4.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MatchMaker: Automated Robotic Assembly Asset Generation for Policy Learning in Simulation]()
+
+**Yian Wang***, [Iretiayo Akinola\*](), [Kaichun Mo](), [Bingjie Tang](), [Chuang Gan](), [Dieter Fox](), [Yashraj Narang]()
+
+[**Project**](https://wangyian-me.github.io/MatchMaker/)
+- We propose MatchMaker, a pipeline to automatically generate diverse, simulation-compatible assembly asset pairs to facilitate learning assembly skills.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='https://wangyian-me.github.io/images/ubsoft.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments ](https://openreview.net/pdf?id=7vzDBvviRO)
+
+[Chunru Lin](), [Jugang Fan](), **Yian Wang**, [Zeyuan Yang](), [Zhehuan Chen](https://acmlczh.github.io), [Lixing Fang](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Zhou Xian](https://www.zhou-xian.com/), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
+
+[**Paper**](https://openreview.net/pdf?id=7vzDBvviRO)
+- We introduce UBSOFT, a new simulation platform designed to support unbounded soft environments for robot skill acquisition. Our platform utilizes spatially adaptive resolution scales, where simulation resolution dynamically adjusts based on proximity to active robotic agents.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='https://wangyian-me.github.io/images/architect.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARCHITECT: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting](https://arxiv.org/abs/2411.09823)
 
-**Yian Wang***, [Xiaowen Qiu\*](), [Jiageng Liu\*](), [Zhehuan Chen](), [Jiting Cai](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Yufei Wang](https://yufeiwang63.github.io/), [Zhou Xian](https://www.zhou-xian.com/)
+**Yian Wang***, [Xiaowen Qiu\*](), [Jiageng Liu\*](https://jiagengliu02.github.io), [Zhehuan Chen](https://acmlczh.github.io), [Jiting Cai](https://caijiting.github.io), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Yufei Wang](https://yufeiwang63.github.io/), [Zhou Xian](https://www.zhou-xian.com/), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
 
 [**Paper**](https://arxiv.org/abs/2411.09823) [**Project**](https://wangyian-me.github.io/Architect/)
 - In this work, we utilize foundation visual perception models to obtain each generated object from the image and leverage pre-trained depth estimation models to lift the generated 2D image to 3D space.
