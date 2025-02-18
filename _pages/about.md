@@ -35,7 +35,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 [MatchMaker: Automated Robotic Assembly Asset Generation for Policy Learning in Simulation]()
 
-**Yian Wang***, [Iretiayo Akinola\*](http://www.cs.columbia.edu/~iakinola/), [Kaichun Mo](https://kaichun-mo.github.io), [Bingjie Tang](https://bingjietang718.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang)
+**Yian Wang**, [Kaichun Mo](https://kaichun-mo.github.io), [Bingjie Tang](https://bingjietang718.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang), [Iretiayo Akinola](http://www.cs.columbia.edu/~iakinola/)
 
 [**Project**](https://wangyian-me.github.io/MatchMaker/)
 - We propose MatchMaker, a pipeline to automatically generate diverse, simulation-compatible assembly asset pairs to facilitate learning assembly skills.
