@@ -79,7 +79,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='https://wangyian-me.github.io/images/logo_002.webp' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='https://wangyian-me.github.io/images/robogen-icml.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ROBOGEN: TOWARDS UNLEASHING INFINITE DATA FOR AUTOMATED ROBOT LEARNING VIA GENERATIVE SIMULATION](https://arxiv.org/pdf/2311.01455.pdf)
