@@ -33,7 +33,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://wangyian-me.github.io/images/MatchMaker4.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MatchMaker: MatchMaker: Automated Asset Generation for Robotic Assembly]()
+[MatchMaker: Automated Asset Generation for Robotic Assembly]()
 
 **Yian Wang**, [Bingjie Tang](https://bingjietang718.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), [Kaichun Mo](https://kaichun-mo.github.io), [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang), [Iretiayo Akinola](http://www.cs.columbia.edu/~iakinola/)
 
