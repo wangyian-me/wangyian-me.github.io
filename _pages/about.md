@@ -33,11 +33,11 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='https://wangyian-me.github.io/images/MatchMaker4.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MatchMaker: Automated Asset Generation for Robotic Assembly]()
+[MatchMaker: Automated Asset Generation for Robotic Assembly](https://arxiv.org/abs/2503.05887)
 
 **Yian Wang**, [Bingjie Tang](https://bingjietang718.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), [Kaichun Mo](https://kaichun-mo.github.io), [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang), [Iretiayo Akinola](http://www.cs.columbia.edu/~iakinola/)
 
-[**Project**](https://wangyian-me.github.io/MatchMaker/)
+[**Paper**](https://arxiv.org/abs/2503.05887) [**Project**](https://wangyian-me.github.io/MatchMaker/)
 - We propose MatchMaker, a pipeline to automatically generate diverse, simulation-compatible assembly asset pairs to facilitate learning assembly skills.
 </div>
 </div>
@@ -45,11 +45,11 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='https://wangyian-me.github.io/images/ubsoft.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments ](https://openreview.net/pdf?id=7vzDBvviRO)
+[UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments ](https://arxiv.org/abs/2411.12711)
 
 [Chunru Lin](), [Jugang Fan](), **Yian Wang**, [Zeyuan Yang](), [Zhehuan Chen](https://acmlczh.github.io), [Lixing Fang](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Zhou Xian](https://www.zhou-xian.com/), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
 
-[**Paper**](https://openreview.net/pdf?id=7vzDBvviRO)
+[**Paper**](https://arxiv.org/abs/2411.12711) [**Project**](https://ubsoft24.github.io)
 - We introduce UBSOFT, a new simulation platform designed to support unbounded soft environments for robot skill acquisition. Our platform utilizes spatially adaptive resolution scales, where simulation resolution dynamically adjusts based on proximity to active robotic agents.
 </div>
 </div>
