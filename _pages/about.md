@@ -61,7 +61,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 **Yian Wang***, [Xiaowen Qiu\*](), [Jiageng Liu\*](https://jiagengliu02.github.io), [Zhehuan Chen](https://acmlczh.github.io), [Jiting Cai](https://caijiting.github.io), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Yufei Wang](https://yufeiwang63.github.io/), [Zhou Xian](https://www.zhou-xian.com/), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
 
-[**Paper**](https://arxiv.org/abs/2411.09823) [**Project**](https://wangyian-me.github.io/Architect/)
+[**Paper**](https://arxiv.org/abs/2411.09823) [**Project**](https://wangyian-me.github.io/Architect/) [**Code**](https://github.com/wangyian-me/architect_official_code)
 - In this work, we utilize foundation visual perception models to obtain each generated object from the image and leverage pre-trained depth estimation models to lift the generated 2D image to 3D space.
 </div>
 </div>
