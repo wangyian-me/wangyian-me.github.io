@@ -110,7 +110,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 **Yian Wang***, [Juntian Zheng\*](), [Zhehuan Chen](https://acmlczh.github.io), [Zhou Xian](https://www.zhou-xian.com), [Gu Zhang](https://www.gu-zhang.com), [Chao Liu](https://chaoliu.tech), [Chuang Gan](http://people.csail.mit.edu/ganchuang/)
                             
-[**Paper**](https://openreview.net/pdf?id=KsUh8MMFKQ) [**Project**](https://vis-www.cs.umass.edu/ThinShellLab)
+[**Paper**](https://openreview.net/pdf?id=KsUh8MMFKQ) [**Project**](https://vis-www.cs.umass.edu/ThinShellLab) [**Code**](https://github.com/Genesis-Embodied-AI/ThinShellLab)
 - We introduce ThinShellLab - a fully differentiable simulation platform tailored for robotic interactions with diverse thin-shell materials possessing varying material properties, enabling flexible thin-shell manipulation skill learning and evaluation.
 </div>
 </div>
