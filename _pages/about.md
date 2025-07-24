@@ -28,12 +28,24 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='https://wangyian-me.github.io/images/teaser-genesis.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://github.com/Genesis-Embodied-AI/Genesis)
+
+Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Juntian Zheng\*, Ziyan Xiong\*, **Yian Wang**\*, Mingrui Zhang\*, Pingchuan Ma\*, Yufei Wang\*, Zhiyang Dou\*, etc.
+
+[**Project**](https://genesis-embodied-ai.github.io) [**Code**](https://github.com/Genesis-Embodied-AI/Genesis)
+- It's Genesis!
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/robosmith.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://www.arxiv.org/abs/2506.14763)
 
-Chunru Lin*, Haotian Yuan*, **Yian Wang***, Xiaowen Qiu, Tsun-Hsuan Wang, Minghao Guo, Bohan Wang, Yashraj Narang, Dieter Fox, Chuang Gan
+Chunru Lin\*, Haotian Yuan\*, **Yian Wang**\*, Xiaowen Qiu, Tsun-Hsuan Wang, Minghao Guo, Bohan Wang, Yashraj Narang, Dieter Fox, Chuang Gan
 
 [**Paper**](https://www.arxiv.org/abs/2506.14763) [**Project**](https://umass-embodied-agi.github.io/RobotSmith/)
 - We introduce LuciBot, a pipeline that utilizes a general-purpose video generation model to autonomously generate supervision signals for complex embodied tasks.
