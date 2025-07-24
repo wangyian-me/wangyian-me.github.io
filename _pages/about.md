@@ -48,7 +48,7 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 Chunru Lin\*, Haotian Yuan\*, **Yian Wang**\*, Xiaowen Qiu, Tsun-Hsuan Wang, Minghao Guo, Bohan Wang, Yashraj Narang, Dieter Fox, Chuang Gan
 
 [**Paper**](https://www.arxiv.org/abs/2506.14763) [**Project**](https://umass-embodied-agi.github.io/RobotSmith/)
-- We introduce LuciBot, a pipeline that utilizes a general-purpose video generation model to autonomously generate supervision signals for complex embodied tasks.
+- We propose RobotSmith, an automated pipeline that leverages the implicit physical knowledge embedded in vision-language models (VLMs) alongside the more accurate physics provided by physics simulations to design and use tools for robotic manipulation.
 </div>
 </div>
 
