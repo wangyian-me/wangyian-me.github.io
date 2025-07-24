@@ -32,6 +32,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 <div class='paper-box-text' markdown="1">
 
 [RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://www.arxiv.org/abs/2506.14763)
+
 Chunru Lin*, Haotian Yuan*, **Yian Wang***, Xiaowen Qiu, Tsun-Hsuan Wang, Minghao Guo, Bohan Wang, Yashraj Narang, Dieter Fox, Chuang Gan
 
 [**Paper**](https://www.arxiv.org/abs/2506.14763) [**Project**](https://umass-embodied-agi.github.io/RobotSmith/)
@@ -43,6 +44,7 @@ Chunru Lin*, Haotian Yuan*, **Yian Wang***, Xiaowen Qiu, Tsun-Hsuan Wang, Mingha
 <div class='paper-box-text' markdown="1">
 
 [LuciBot: Automated Robot Policy Learning from Generated Videos](https://arxiv.org/pdf/2503.09871)
+
 [Xiaowen Qiu\*](), **Yian Wang***, [Jiting Cai\*](https://caijiting.github.io), [Zhehuan Chen](https://acmlczh.github.io), [Chunru Lin](https://chunru-lin.github.io), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
 
 [**Paper**](https://arxiv.org/pdf/2503.09871) [**Project**](https://wangyian-me.github.io/LuciBot/)
@@ -54,6 +56,7 @@ Chunru Lin*, Haotian Yuan*, **Yian Wang***, Xiaowen Qiu, Tsun-Hsuan Wang, Mingha
 <div class='paper-box-text' markdown="1">
 
 [Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling](https://arxiv.org/abs/2502.02590)
+
 [Xiaowen Qiu\*](), [Jincheng Yang\*](), **Yian Wang**, [Zhehuan Chen](https://acmlczh.github.io), [Yufei Wang](https://yufeiwang63.github.io/), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Zhou Xian](https://www.zhou-xian.com/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
 
 [**Paper**](https://arxiv.org/abs/2502.02590) [**Project**](https://articulateanymesh.github.io) [**Code**](https://github.com/UMass-Embodied-AGI/Articulate-Anymesh)
