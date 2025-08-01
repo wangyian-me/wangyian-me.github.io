@@ -64,7 +64,7 @@ Chunru Lin\*, Haotian Yuan\*, **Yian Wang**\*, Xiaowen Qiu, Tsun-Hsuan Wang, Min
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/smalldemo_arti.gif' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2025</div><img src='https://wangyian-me.github.io/images/smalldemo_arti.gif' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling](https://arxiv.org/abs/2502.02590)
