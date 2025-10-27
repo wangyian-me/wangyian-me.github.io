@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am currently a second-year PhD student in computer science at the University of Massachusetts Amherst, advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
+I am currently a third-year PhD student in computer science at the University of Massachusetts Amherst, advised by [Prof. Chuang Gan](https://people.csail.mit.edu/ganchuang/).
 My primary research focus centers around Robotics and Embodied AI, with a particular emphasis on robot skill acquisition. My work primarily revolves around equipping robots with the capability to acquire versatile skills and improve their generalization abilities. The practical applications of my research span across various domains, including domestic robots and autonomous manipulation tasks.
 Previous to my graduate study, I obtained my bachelor degree in Peking University when I worked as an undergraduate member in [Center on Frontiers of Computing Studies (CFCS)](https://cfcs.pku.edu.cn/english/), under the guidance of [Prof. Hao Dong](https://zsdonghao.github.io/).
 
@@ -40,7 +40,7 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://wangyian-me.github.io/images/robosmith.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='https://wangyian-me.github.io/images/robosmith.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://www.arxiv.org/abs/2506.14763)
