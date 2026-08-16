@@ -24,6 +24,9 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
+- *Jun 2026*: &nbsp; Internship at Tesla Optimus!
+- *May 2026*: &nbsp; DLO-Lab is accepted at ICML 2026!
+- *Jan 2026*: &nbsp; PhyScensis is accepted at ICLR 2026!
 - *May 2025*: &nbsp; Internship in Genesis!
 
 # 📝 Publications 
@@ -37,6 +40,30 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 
 [**Project**](https://genesis-embodied-ai.github.io) [**Code**](https://github.com/Genesis-Embodied-AI/Genesis)
 - It's Genesis!
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://wangyian-me.github.io/images/physcensis.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968)
+
+**Yian Wang***, [Han Yang\*](https://hanyangclarence.github.io/), [Minghao Guo](https://www.minghaoguo.com/), [Xiaowen Qiu](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+
+[**Paper**](https://arxiv.org/abs/2602.14968) [**Project**](https://physcensis.github.io/)
+- We propose PhyScensis, an LLM agent-based framework powered by a physics engine that generates physically plausible and highly complex scene arrangements, where an LLM agent proposes spatial and physical predicates, a physics-based solver realizes them into a 3D scene, and solver feedback guides the agent to refine and enrich the configuration.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://wangyian-me.github.io/images/dlo_lab.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DLO-Lab: Benchmarking Deformable Linear Object Manipulations with Differentiable Physics](https://arxiv.org/abs/2606.04206)
+
+[Junyi Cao](), **Yian Wang**, [Ziyan Xiong](), [Chunru Lin](https://chunru-lin.github.io), [Zhehuan Chen](https://acmlczh.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+
+[**Paper**](https://arxiv.org/abs/2606.04206) [**Project**](https://dlo-lab-26.github.io/) [**Code**](https://github.com/UMass-Embodied-AGI/DLO-Lab)
+- We introduce a differentiable simulator tailored for versatile deformable linear object (rope, cable, rubber band) manipulation, modeling (in)extensibility, elasticity, bending plasticity, and rich interactions with other objects, together with a benchmark suite of representative DLO manipulation tasks.
 </div>
 </div>
 
@@ -242,6 +269,9 @@ Chunru Lin\*, Haotian Yuan\*, **Yian Wang**\*, Xiaowen Qiu, Tsun-Hsuan Wang, Min
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *Jun 2026 - now*, [Tesla Optimus](https://www.tesla.com/AI).
+- *May 2025 - Aug 2025*, [Genesis AI](https://genesis-ai.company/), where I worked with [Zhou Xian](https://www.zhou-xian.com/) and [Tsun-Hsuan Wang](https://zswang666.github.io/).
+- *May 2024 - Aug 2024*, [Seattle Robotics Lab](https://research.nvidia.com/labs/srl/), NVIDIA, where I worked with [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang), [Iretiayo Akinola](http://www.cs.columbia.edu/~iakinola/) and [Dieter Fox](https://homes.cs.washington.edu/~fox/).
 - *Mar 2023 - Aug 2023*, [Taichi Graphics](https://taichi-graphics.com/), where I was lucky to work with [Tiantian Liu](https://tiantianliu.cn/) and [Yuanming Hu](https://yuanming.taichi.graphics/)
 - *Apr 2022 - Oct 2022*, with [Dr. Jie Fu](https://bigaidream.github.io/) in [Mila](https://mila.quebec/en/) & [BAAI](https://www.baai.ac.cn/english.html).
 
