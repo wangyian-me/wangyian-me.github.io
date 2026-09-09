@@ -49,7 +49,7 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 
 [IM-Engine: Image Editing for Embodied Data Generation](https://arxiv.org/abs/2609.06279)
 
-**Yian Wang**, [Junyi Cao](), [Xiaowen Qiu](), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+**Yian Wang***, [Junyi Cao\*](), [Xiaowen Qiu](), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
 
 [**Paper**](https://arxiv.org/abs/2609.06279)
 - We present IM-Engine, a simulator-grounded pipeline that uses image editing as an intermediate representation for embodied data generation, injecting task-relevant semantics into rendered scenes, recovering explicit 3D state with simulator priors, and refining it in physics into robot-executable supervision for dexterous grasping and goal-state generation.
