@@ -124,7 +124,7 @@ Chunru Lin\*, Haotian Yuan\*, **Yian Wang**\*, Xiaowen Qiu, Tsun-Hsuan Wang, Min
 
 **Yian Wang**, [Bingjie Tang](https://bingjietang718.github.io), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Dieter Fox](https://homes.cs.washington.edu/~fox/), [Kaichun Mo](https://kaichun-mo.github.io), [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang), [Iretiayo Akinola](http://www.cs.columbia.edu/~iakinola/)
 
-[**Paper**](https://arxiv.org/abs/2503.05887) [**Project**](https://wangyian-me.github.io/MatchMaker/)
+[**Paper**](https://arxiv.org/abs/2503.05887) [**Project**](https://wangyian-me.github.io/MatchMaker/) [**Code**](https://github.com/wangyian-me/MatchMaker_Code/tree/match_maker)
 - We propose MatchMaker, a pipeline to automatically generate diverse, simulation-compatible assembly asset pairs to facilitate learning assembly skills.
 </div>
 </div>
