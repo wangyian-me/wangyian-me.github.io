@@ -24,6 +24,7 @@ Previous to my graduate study, I obtained my bachelor degree in Peking Universit
 
 
 # 🔥 News
+- *Sep 2026*: &nbsp; IM-Engine is accepted at CoRL 2026!
 - *Jun 2026*: &nbsp; Internship at Tesla Optimus!
 - *May 2026*: &nbsp; DLO-Lab is accepted at ICML 2026!
 - *Jan 2026*: &nbsp; PhyScensis is accepted at ICLR 2026!
@@ -43,15 +44,15 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://wangyian-me.github.io/images/physcensis.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='https://wangyian-me.github.io/images/im_engine.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968)
+[IM-Engine: Image Editing for Embodied Data Generation](https://arxiv.org/abs/2609.06279)
 
-**Yian Wang***, [Han Yang\*](https://hanyangclarence.github.io/), [Minghao Guo](https://www.minghaoguo.com/), [Xiaowen Qiu](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+**Yian Wang**, [Junyi Cao](), [Xiaowen Qiu](), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
 
-[**Paper**](https://arxiv.org/abs/2602.14968) [**Project**](https://physcensis.github.io/)
-- We propose PhyScensis, an LLM agent-based framework powered by a physics engine that generates physically plausible and highly complex scene arrangements, where an LLM agent proposes spatial and physical predicates, a physics-based solver realizes them into a 3D scene, and solver feedback guides the agent to refine and enrich the configuration.
+[**Paper**](https://arxiv.org/abs/2609.06279)
+- We present IM-Engine, a simulator-grounded pipeline that uses image editing as an intermediate representation for embodied data generation, injecting task-relevant semantics into rendered scenes, recovering explicit 3D state with simulator priors, and refining it in physics into robot-executable supervision for dexterous grasping and goal-state generation.
 </div>
 </div>
 
@@ -64,6 +65,18 @@ Zhou Xian\* , Yiling Qiao\*, Zhenjia Xu\*, Tsun-Hsuan Wang\*, Zhehuan Chen\*, Ju
 
 [**Paper**](https://arxiv.org/abs/2606.04206) [**Project**](https://dlo-lab-26.github.io/) [**Code**](https://github.com/UMass-Embodied-AGI/DLO-Lab)
 - We introduce a differentiable simulator tailored for versatile deformable linear object (rope, cable, rubber band) manipulation, modeling (in)extensibility, elasticity, bending plasticity, and rich interactions with other objects, together with a benchmark suite of representative DLO manipulation tasks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://wangyian-me.github.io/images/physcensis.png' alt="sym" width="500" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968)
+
+**Yian Wang***, [Han Yang\*](https://hanyangclarence.github.io/), [Minghao Guo](https://www.minghaoguo.com/), [Xiaowen Qiu](), [Tsun-Hsuan Wang](https://zswang666.github.io/), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech), [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+
+[**Paper**](https://arxiv.org/abs/2602.14968) [**Project**](https://physcensis.github.io/)
+- We propose PhyScensis, an LLM agent-based framework powered by a physics engine that generates physically plausible and highly complex scene arrangements, where an LLM agent proposes spatial and physical predicates, a physics-based solver realizes them into a 3D scene, and solver feedback guides the agent to refine and enrich the configuration.
 </div>
 </div>
 
